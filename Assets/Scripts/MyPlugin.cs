@@ -1,5 +1,4 @@
 using System.Runtime.InteropServices;
-using UnityEditor.ShaderGraph.Internal;
 
 [StructLayout(LayoutKind.Sequential)]
 
